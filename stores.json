@@ -1,0 +1,252 @@
+[
+ {
+  "name": "AL MEERA (RT RAWDAT AL HAMAMA BRANCH)",
+  "city": "Al Daayen",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/T6v4DQE89R6Wh2Ti8",
+  "lat": 25.4363,
+  "lng": 51.4416
+ },
+ {
+  "name": "AL MEERA AL KHOR (NEW)",
+  "city": "Al Khor",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/FRTR46XC6jSHtG2r6",
+  "lat": 25.6672,
+  "lng": 51.4877
+ },
+ {
+  "name": "LULU HYPER MARKET TRDG, AL KHOR-3060",
+  "city": "Al Khor",
+  "channel": "key acc",
+  "retailer": "Lulu",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/QEDsXv9WkymP3hFt5",
+  "lat": 25.6748,
+  "lng": 51.5021
+ },
+ {
+  "name": "AL MEERA AZGHAWA",
+  "city": "Al Rayyan",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/qrXDuiBnd2ei6E8R6",
+  "lat": 25.3544,
+  "lng": 51.4374
+ },
+ {
+  "name": "MAJID AL FUTTAIM HYPERMARKETS(M-OF-QATAR",
+  "city": "Al Rayyan",
+  "channel": "key acc",
+  "retailer": "Carrefour",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/YeNdsU1vwyW1tdXk7",
+  "lat": 25.3286,
+  "lng": 51.3508
+ },
+ {
+  "name": "AL MEERA WAKHRA BRANCH",
+  "city": "Al Wakrah",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/kDX6kibXstxbCTPJA",
+  "lat": 25.1792,
+  "lng": 51.5987
+ },
+ {
+  "name": "AL MEERA-WAKHRA (NEW)",
+  "city": "Al Wakrah",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/zMMK5NyBzNfwnhsj7",
+  "lat": 25.1446,
+  "lng": 51.6041
+ },
+ {
+  "name": "MAJID AL FUTTAIM HYPERMARKETS(AL WAKRA)",
+  "city": "Al Wakrah",
+  "channel": "key acc",
+  "retailer": "Carrefour",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/86goQLgKg5r15kbj9",
+  "lat": 25.1711,
+  "lng": 51.5896
+ },
+ {
+  "name": "AL MEERA HAYAT PLAZA (GEANT)",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/cqcgeCP3cTZJCJV47",
+  "lat": 25.2569,
+  "lng": 51.4372
+ },
+ {
+  "name": "AL MEERA HAZIM AL MARKHIYA",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/vjrHS9YqD4NQUYz76",
+  "lat": 25.3374,
+  "lng": 51.5053
+ },
+ {
+  "name": "AL MEERA AIN KHALID -A065",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/z32Z8T1kK9nd52tc6",
+  "lat": 25.2059,
+  "lng": 51.4614
+ },
+ {
+  "name": "AL MEERA-RAWDAT ELKADEEM",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/y1xKHAfdf5MReDGS9",
+  "lat": 25.27,
+  "lng": 51.5199
+ },
+ {
+  "name": "AL MEERA (LEABAIB -1)",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/dzMuXPhxsjNVSYXN8",
+  "lat": 25.38,
+  "lng": 51.4636
+ },
+ {
+  "name": "AL MEERA MANSOURA BRANCH",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Al Meera",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/gNKEoLh5zPHX9n5q6",
+  "lat": 25.2712,
+  "lng": 51.5292
+ },
+ {
+  "name": "LULU HYPERMARKET TRDG,OLD AIRPORT-3020",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Lulu",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/oeN6U8PPZwHwV67F9",
+  "lat": 25.2539,
+  "lng": 51.5452
+ },
+ {
+  "name": "LULU HYPERMARKET TRDG,GHARAFA-3040",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Lulu",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/iHy3uvGfhKpym4FH9",
+  "lat": 25.3378,
+  "lng": 51.4602
+ },
+ {
+  "name": "LULU HYPERMARKET TRDG,AL MESSILIA,-3015",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Lulu",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/CaXTtWosmPWpjYLa7",
+  "lat": 25.3009,
+  "lng": 51.4882
+ },
+ {
+  "name": "RAWABI HYPERMARKET-IZGHAWA",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Rawabi",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/C2KaHMmf5GvDZHVh6",
+  "lat": 25.3511,
+  "lng": 51.4308
+ },
+ {
+  "name": "SAFARI HYPER MARKET-SALWA ROAD",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Safari",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/voNsE3Bd7fs4RmR8A",
+  "lat": 25.2262,
+  "lng": 51.4343
+ },
+ {
+  "name": "MAJID AL FUTTAIM HYPER MARKETS(L-MARK)",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Carrefour",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/aVCkVBmg28TgN5Sw9",
+  "lat": 25.3343,
+  "lng": 51.4681
+ },
+ {
+  "name": "MAJID AL FUTTAIM HYPER MARKETS(C-CENTRE)",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Carrefour",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/qHBBQyBejBR2xKQC7",
+  "lat": 25.3248,
+  "lng": 51.5294
+ },
+ {
+  "name": "MAJID AL FUTTAIM HYPER MARKETS(VILLAGIO)",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Carrefour",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/nGjS98hP3q95vht38",
+  "lat": 25.2588,
+  "lng": 51.4426
+ },
+ {
+  "name": "ABA MONOPRIX -DFC",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Monoprix",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/C1d8fMbd7cgAL97fA",
+  "lat": 25.3885,
+  "lng": 51.441
+ },
+ {
+  "name": "ABA MONOPRIX AL WAAB",
+  "city": "Doha",
+  "channel": "key acc",
+  "retailer": "Monoprix",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/deGqrVX7VkQj4HMPA",
+  "lat": 25.2684,
+  "lng": 51.4499
+ },
+ {
+  "name": "ABA MONOPRIX-VENDOME",
+  "city": "Lusail",
+  "channel": "key acc",
+  "retailer": "Monoprix",
+  "frequency": 4.0,
+  "map": "https://maps.app.goo.gl/871ES4Pkjr1X1tg38",
+  "lat": 25.4051,
+  "lng": 51.518
+ }
+]
